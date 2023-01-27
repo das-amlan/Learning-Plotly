@@ -7,7 +7,7 @@ This repository contains all codes of my Plotly learning path
 * Easy to use
 * Easy to create animated plots
 
-## What have I learn so far:
+## What have I learned so far:
 * Pie Chart
 * Bar Graph
 * Scatter Plot
