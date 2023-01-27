@@ -16,3 +16,4 @@ This repository contains all codes of my Plotly learning path
 
 ## Important Links
 * Plotly graph_object: https://plotly.com/python/reference/index/
+* Credit: https://github.com/Coding-with-Adam/Dash-by-Plotly/tree/master/Plotly_Graphs
