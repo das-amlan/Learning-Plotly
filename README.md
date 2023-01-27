@@ -13,3 +13,6 @@ This repository contains all codes of my Plotly learning path
 * Scatter Plot
 * Animated Scatter Plot
 * Box & Violin Plots
+
+## Important Links
+* Plotly graph_object: https://plotly.com/python/reference/index/
