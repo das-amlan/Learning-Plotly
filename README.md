@@ -24,7 +24,8 @@ To run the notebooks and scripts in this repo, you need to have the following in
 
 * [Python 3](https://www.python.org/downloads/)
 * [Jupyter Notebook](https://jupyter.org/install)
-* Plotly library (**pip install plotly**)
+* Plotly library (**'pip install plotly'**)
+
 Clone the repository by running the following command:
 
 ```bash
