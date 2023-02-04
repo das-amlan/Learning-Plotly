@@ -28,7 +28,7 @@ To run the notebooks and scripts in this repo, you need to have the following in
 
 Clone the repository by running the following command:
 
-```bash
+````bash`
 git clone https://github.com/das-amlan/Learning-Plotly.git
 ```
 ## Contributing
